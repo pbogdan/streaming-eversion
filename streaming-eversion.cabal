@@ -28,7 +28,7 @@ Library
         transformers     >= 0.4.0.0        ,
         foldl            >= 1.1.5          ,
         pipes            >= 4.1.0          ,
-        streaming        >= 0.1.4.2        
+        streaming        >= 0.2.0.0        
     Exposed-Modules:
         Streaming.Eversion
         Streaming.Eversion.Pipes

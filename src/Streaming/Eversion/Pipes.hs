@@ -24,7 +24,7 @@ module Streaming.Eversion.Pipes (
 import           Control.Monad.IO.Class
 import           Control.Monad.Trans.Class
 
-import           Streaming(MonadResource,strictly)
+import           Streaming(strictly)
 import qualified Streaming.Prelude
 import qualified Streaming.Eversion
 import           Pipes
